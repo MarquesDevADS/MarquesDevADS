@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alyson Marques</h1>
 <h3 align="center">A student of systems analysis and development, passionate about back-end</h3>
 
-- 📖 I’m currently learning **C and Java**
+- 📖 I’m currently learning: **C and Java**
 
-- 📫 How to reach me **@alysonrm2005@gmail.com**
+- 📫 How to reach me: **@alysonrm2005@gmail.com**
 
-- ☕ Hobbie **have a good coffee listening to music**
+- ☕ Hobbie: **have a good coffee listening to music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
