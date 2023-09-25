@@ -18,5 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marquesdevads&show_icons=true&locale=en&layout=compact" alt="marquesdevads" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marquesdevads&show_icons=true&locale=en" alt="marquesdevads" /></p>
-<p><img  align="center"  windth="470" src=https://pin.it/6KBh5Bs</p> align="center">
+<p> align="center"<img windth="470" src=https://pin.it/6KBh5Bs</p> align="center">
 
