@@ -3,11 +3,11 @@
 
 - 📖 I’m currently learning: **C and Java**
 
-- 📫 How to reach me: **@alysonrm2005@gmail.com**
+- 📫 How to reach me: **@alysonrm2005@gmail.com**  
 
 - ☕ Hobbie: **have a good coffee listening to music**
 
-<img src="/marquesdevads/img/1a58a026260359573c85955eaf2de8ac.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marquesdevads&show_icons=true&locale=en&layout=compact" alt="marquesdevads" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marquesdevads&show_icons=true&locale=en" alt="marquesdevads" /></p>
-<p align="center"><img windth="470" src=https://pin.it/6KBh5Bs</p>
+
 
