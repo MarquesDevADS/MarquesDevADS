@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alyson Marques</h1>
 <h3 align="center">A student of systems analysis and development, passionate about back-end</h3>
 
-- 📖 I’m currently learning: **C, Python, Java and PhP**
+- 📖 I’m currently learning: **C, Python, Java, Go and PhP**
 
 - 📫 How to reach me: **@alysonrm2005@gmail.com**  
 
